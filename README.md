@@ -49,7 +49,13 @@ Git log is a utility tool to review and read a history of everything that happen
 
 ## 13. Git status
 
+The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.<br>
+```git status```  This command lists all the files that have to be committed.
+
 ## 14. Git merge
+
+Git merging combines sequences of commits into one unified history of commits.
+```git merge branch_name```   This command merges the specified branch’s history into the current branch.
 
 ## 15. Git clone
 
